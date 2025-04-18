@@ -1,0 +1,1504 @@
+[
+  {
+    "year": "2017",
+    "canton": "Schweiz",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 15.9,
+        "confidence_interval": 0.0
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 15.9,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 15.5,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 15.6,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 15.4,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 15.6,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 16.8,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 18.6,
+        "confidence_interval": 0.1
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Zürich",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 18.6,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 18.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 19.5,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 17.8,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 18.0,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 17.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 17.9,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 18.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 21.1,
+        "confidence_interval": 0.3
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Bern",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 14.2,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 17.0,
+        "confidence_interval": 0.5
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Luzern",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 15.0,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 15.3,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 14.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 17.4,
+        "confidence_interval": 0.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Uri",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 11.6,
+        "confidence_interval": 1.2
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 11.6,
+        "confidence_interval": 2.8
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 12.4,
+        "confidence_interval": 1.1
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 12.3,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 11.9,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.3,
+        "confidence_interval": 2.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 1.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Schwyz",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 16.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.9,
+        "confidence_interval": 1.1
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 15.2,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 15.6,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 16.2,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 17.8,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 17.8,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Obwalden",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.8,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.8,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 3.1
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 2.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 13.8,
+        "confidence_interval": 2.0
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 1.9
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.4,
+        "confidence_interval": 1.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Nidwalden",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 15.7,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 2.8
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 1.9
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 1.9
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 15.9,
+        "confidence_interval": 1.1
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 1.9
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 16.2,
+        "confidence_interval": 1.5
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 1.7
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 1.3
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Glarus",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 11.6,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 11.1,
+        "confidence_interval": 1.8
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 11.8,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.0,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.2,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 12.2,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 1.5
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 1.2
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 15.7,
+        "confidence_interval": 2.7
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Zug",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 19.5,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 17.5,
+        "confidence_interval": 1.1
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 19.4,
+        "confidence_interval": 1.7
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 21.4,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 17.8,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 18.8,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 19.4,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 19.5,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 22.5,
+        "confidence_interval": 0.7
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Freiburg",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 0.5
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Solothurn",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.8,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.5,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.2,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 13.0,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.6
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Basel-Stadt",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 17.2,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 17.0,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 16.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 16.1,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 17.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 17.5,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 18.2,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 21.0,
+        "confidence_interval": 1.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 22.5,
+        "confidence_interval": 1.5
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Basel-Landschaft",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 16.6,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 1.2
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 16.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 16.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 16.2,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 17.3,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 20.4,
+        "confidence_interval": 0.7
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Schaffhausen",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 1.4
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.1,
+        "confidence_interval": 1.2
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Appenzell A.Rh.",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 11.2,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 11.9,
+        "confidence_interval": 2.5
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 12.8,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 1.5
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.0,
+        "confidence_interval": 1.1
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.5,
+        "confidence_interval": 1.7
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 1.3
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Appenzell I.Rh.",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 11.5,
+        "confidence_interval": 4.0
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.8,
+        "confidence_interval": 1.9
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 2.0
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 2.1
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 2.9
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 1.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "St.Gallen",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.8,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.3,
+        "confidence_interval": 0.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Graubünden",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.8,
+        "confidence_interval": 1.2
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 15.4,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 16.3,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 17.6,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Aargau",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 17.0,
+        "confidence_interval": 0.3
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Thurgau",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.2,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.1,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 11.7,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 13.0,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.0,
+        "confidence_interval": 0.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Tessin",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.3,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.9,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.0,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.6
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Waadt",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 17.1,
+        "confidence_interval": 0.1
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 15.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 17.3,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 17.1,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 16.7,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 16.2,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 17.2,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 21.4,
+        "confidence_interval": 0.4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Wallis",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 12.8,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 11.8,
+        "confidence_interval": 0.9
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 13.9,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.1,
+        "confidence_interval": 0.5
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Neuenburg",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 12.1,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 11.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.2,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 11.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 12.1,
+        "confidence_interval": 0.3
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 11.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 13.0,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 15.0,
+        "confidence_interval": 1.3
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 16.8,
+        "confidence_interval": 0.9
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Genf",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.2
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 19.3,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 19.9,
+        "confidence_interval": 0.7
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 18.5,
+        "confidence_interval": 0.5
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 17.4,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 19.4,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 18.4,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 19.0,
+        "confidence_interval": 0.6
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 20.6,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "canton": "Jura",
+    "construction_periods": [
+      {
+        "construction_period": "Total",
+        "avg_price_per_sqm": 11.0,
+        "confidence_interval": 0.4
+      },
+      {
+        "construction_period": "Vor 1919",
+        "avg_price_per_sqm": 10.3,
+        "confidence_interval": 0.8
+      },
+      {
+        "construction_period": "1919 - 1945",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 1.6
+      },
+      {
+        "construction_period": "1946 - 1960",
+        "avg_price_per_sqm": 11.0,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1961 - 1970",
+        "avg_price_per_sqm": 10.7,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "1971 - 1980",
+        "avg_price_per_sqm": 10.2,
+        "confidence_interval": 1.4
+      },
+      {
+        "construction_period": "1981 - 1990",
+        "avg_price_per_sqm": 10.8,
+        "confidence_interval": 1.2
+      },
+      {
+        "construction_period": "1991 - 2000",
+        "avg_price_per_sqm": 11.0,
+        "confidence_interval": 1.0
+      },
+      {
+        "construction_period": "2001-2010",
+        "avg_price_per_sqm": 9.4,
+        "confidence_interval": 2.1
+      },
+      {
+        "construction_period": "2011-2017",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 1.6
+      }
+    ]
+  }
+]
