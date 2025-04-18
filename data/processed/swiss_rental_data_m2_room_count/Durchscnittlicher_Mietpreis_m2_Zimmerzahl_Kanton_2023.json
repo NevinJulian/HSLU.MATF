@@ -1,0 +1,969 @@
+[
+  {
+    "year": "2023",
+    "canton": "Schweiz",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 21.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 19.5,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 17.5,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 16.4,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 16.1,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 16.6,
+        "confidence_interval": 0.3
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Zürich",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 27.4,
+        "confidence_interval": 1.0
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 23.8,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 20.8,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 19.2,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 18.3,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Bern",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 18.9,
+        "confidence_interval": 1.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 17.1,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 15.2,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 15.1,
+        "confidence_interval": 0.9
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Luzern",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 21.9,
+        "confidence_interval": 1.5
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 19.3,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 16.6,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 15.5,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 15.3,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Uri",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 5.6
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 15.7,
+        "confidence_interval": 1.8
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 1.0
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 13.2,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 11.7,
+        "confidence_interval": 1.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 11.4,
+        "confidence_interval": 1.8
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Schwyz",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 20.4,
+        "confidence_interval": 3.2
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 19.9,
+        "confidence_interval": 1.3
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 18.6,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 16.8,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 0.9
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 16.7,
+        "confidence_interval": 3.2
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Obwalden",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 9.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 17.6,
+        "confidence_interval": 2.4
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 1.1
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 1.5
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 3.3
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Nidwalden",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 17.1,
+        "confidence_interval": 6.9
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 19.7,
+        "confidence_interval": 2.1
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 16.3,
+        "confidence_interval": 1.0
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 15.8,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 1.7
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 1.5
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Glarus",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 23.7,
+        "confidence_interval": 8.0
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 1.8
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 15.3,
+        "confidence_interval": 2.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 4.4
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Zug",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 24.8,
+        "confidence_interval": 3.3
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 23.5,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 21.2,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 19.8,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 19.3,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 21.7,
+        "confidence_interval": 2.1
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Freiburg",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.2,
+        "confidence_interval": 2.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 18.0,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 15.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.1,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 1.3
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Solothurn",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.1,
+        "confidence_interval": 1.8
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 16.2,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 13.9,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 1.3
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Basel-Stadt",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 23.1,
+        "confidence_interval": 1.4
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 20.0,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 18.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 19.1,
+        "confidence_interval": 1.3
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 18.8,
+        "confidence_interval": 1.9
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Basel-Landschaft",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.9,
+        "confidence_interval": 2.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 19.3,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 17.7,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 17.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 16.3,
+        "confidence_interval": 0.8
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 18.0,
+        "confidence_interval": 1.9
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Schaffhausen",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.2,
+        "confidence_interval": 2.4
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 16.9,
+        "confidence_interval": 1.3
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 13.8,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 13.3,
+        "confidence_interval": 1.2
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 14.9,
+        "confidence_interval": 3.6
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Appenzell A.Rh.",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 13.7,
+        "confidence_interval": 2.0
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 1.5
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 1.0
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 1.1
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 12.6,
+        "confidence_interval": 1.1
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Appenzell I.Rh.",
+    "room_categories": [
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 17.9,
+        "confidence_interval": 2.5
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 2.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 1.5
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 1.6
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 20.6,
+        "confidence_interval": 11.3
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "St.Gallen",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 17.1,
+        "confidence_interval": 1.6
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 16.7,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 15.6,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 13.6,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 0.8
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Graubünden",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 18.8,
+        "confidence_interval": 2.2
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 18.6,
+        "confidence_interval": 1.0
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 16.6,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 15.4,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.9
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 2.0
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Aargau",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.1,
+        "confidence_interval": 1.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 15.4,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.6
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Thurgau",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 17.6,
+        "confidence_interval": 2.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 16.5,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.6,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 1.0
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Tessin",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 0.9
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 14.8,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 14.3,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 14.2,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 14.7,
+        "confidence_interval": 1.4
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Waadt",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 25.4,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 20.6,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 18.7,
+        "confidence_interval": 0.1
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 17.4,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 17.0,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 17.9,
+        "confidence_interval": 0.9
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Wallis",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 19.4,
+        "confidence_interval": 1.7
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 16.8,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 15.0,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 13.5,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.7
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 19.2,
+        "confidence_interval": 4.1
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Neuenburg",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 14.5,
+        "confidence_interval": 1.3
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 14.0,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 0.2
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 13.4,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 12.5,
+        "confidence_interval": 1.7
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Genf",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 24.4,
+        "confidence_interval": 1.1
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 22.4,
+        "confidence_interval": 0.5
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 20.8,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 19.7,
+        "confidence_interval": 0.3
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 19.9,
+        "confidence_interval": 0.4
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 22.2,
+        "confidence_interval": 0.9
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "canton": "Jura",
+    "room_categories": [
+      {
+        "room_count": "1",
+        "avg_price_per_sqm": 13.1,
+        "confidence_interval": 2.4
+      },
+      {
+        "room_count": "2",
+        "avg_price_per_sqm": 12.7,
+        "confidence_interval": 1.2
+      },
+      {
+        "room_count": "3",
+        "avg_price_per_sqm": 12.9,
+        "confidence_interval": 0.9
+      },
+      {
+        "room_count": "4",
+        "avg_price_per_sqm": 11.6,
+        "confidence_interval": 0.6
+      },
+      {
+        "room_count": "5",
+        "avg_price_per_sqm": 10.9,
+        "confidence_interval": 2.0
+      },
+      {
+        "room_count": "6+",
+        "avg_price_per_sqm": 10.2,
+        "confidence_interval": 1.8
+      }
+    ]
+  }
+]
