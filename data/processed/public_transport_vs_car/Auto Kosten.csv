@@ -1,0 +1,7 @@
+Fahrzeugklasse,Marke,Modell,Kaufpreis (CHF),Fixkosten (CHF/Jahr),Variable Kosten (CHF/km),Verbrauch,Verbrauchseinheit,Antrieb,Quelle
+Kleinwagen Benziner,Volkswagen,Polo,22000,3600,0.22,5.5,L/100km,Benzin,comparis.ch / auto-illustrierte.ch
+Kleinwagen Elektro,Renault,Zoe,27000,3400,0.14,17,kWh/100km,Elektro,comparis.ch / auto-illustrierte.ch
+Mittelklassewagen Benziner,Skoda,Octavia,37000,4700,0.26,7.0,L/100km,Benzin,TCS / auto-illustrierte.ch
+Mittelklassewagen Elektro,Tesla,Model 3,42000,4500,0.16,18,kWh/100km,Elektro,TCS / gogreen.ch
+Oberklassewagen Benziner,BMW,5er,82000,7200,0.38,9.5,L/100km,Benzin,comparis.ch / carify.com
+Oberklassewagen Elektro,Mercedes-Benz,EQE,87000,7000,0.22,20,kWh/100km,Elektro,TCS / auto-illustrierte.ch
